@@ -1,0 +1,46 @@
+_repo: Maroessia--De-Ukraineesche-Jeanne-D-Arc_18406
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schuler, Théophile
+    aliases:
+    - Schuler, Jules Théophile
+    - Schuler, Th. (Théophile)
+    - Schuler, Theophile
+    birthdate: 1821
+    deathdate: 1878
+    gutenberg_agent_id: '42428'
+    url: http://www.gutenberg.org/2009/agents/42428
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vovchok, Marko
+    aliases:
+    - Вовчок, Марко
+    - Vilinska, Mariya Oleksandrivna
+    birthdate: 1834
+    deathdate: 1907
+    gutenberg_agent_id: '8002'
+    url: http://www.gutenberg.org/2009/agents/8002
+  editor:
+    agent_name: Stahl, P.-J.
+    birthdate: 1814
+    deathdate: 1886
+    gutenberg_agent_id: '38253'
+    url: http://www.gutenberg.org/2009/agents/38253
+description: ''
+gutenberg_issued: '2006-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18406'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Ukraine -- History -- Fiction'
+title: 'Maroessia: De Ukraineesche Jeanne D''Arc'
+url: http://www.gutenberg.org/ebooks/18406
